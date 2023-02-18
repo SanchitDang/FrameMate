@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221703143570",
+    "project_id": "celebrare-4c367",
+    "storage_bucket": "celebrare-4c367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221703143570:android:0dc505fb72a257d8fb264b",
+        "android_client_info": {
+          "package_name": "com.example.celebrare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221703143570-64v5iib4bc97kkgdml6cpqss7nv7hovk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQRKiCSD4-3wNtd1gmVV9ZRMV3UTrWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221703143570-64v5iib4bc97kkgdml6cpqss7nv7hovk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
